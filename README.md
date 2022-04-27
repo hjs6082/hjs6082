@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hjs6082)](https://solved.ac/hjs6082)
 [![Solved.ac
-hjs6082](http://mazassumnida.wtf/api/generate_badge?boj=hjs6082)](https://solved.ac/hjs6082)
+tier](http://mazassumnida.wtf/api/generate_badge?boj=hjs6082)](https://solved.ac/hjs6082)
