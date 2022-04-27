@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 # 내 스탯 📊
 [![JS's github stats](https://github-readme-stats.vercel.app/api?username=hjs6082&show_icons=true&theme=monokai)](https://github.com/hjs6082/github-readme-stats) 
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={hjs6082})](https://solved.ac/{hjs6082})
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hjs6082)](https://solved.ac/hjs6082)
