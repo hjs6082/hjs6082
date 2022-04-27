@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-
+#경기게임마이스터고 현준서입니다.
+  
 ### 사용하는 언어들 💻
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white"/></a>
