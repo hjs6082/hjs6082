@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JunseoHyeon%20%20&height=200&fontSize=100) 
-### Hi there 👋
 
 <!--
 **hjs6082/hjs6082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
