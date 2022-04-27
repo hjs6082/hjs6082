@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20Junseo Hyeon%20%20&height=200&fontSize=100) 
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JunseoHyeon%20%20&height=200&fontSize=100) 
 ### Hi there 👋
 
 <!--
