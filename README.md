@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 
 ### 사용하는 엔진 🔨
-<img src="https://img.shields.io/badge/Unity-#FFFFFF?style=flat-square&logo=Unity&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=Roblox&logoColor=white"/></a>
 
