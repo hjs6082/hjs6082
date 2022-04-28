@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a>
 
 ### 사용하는 엔진 🔨
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Unity-0E1128?style=flat-square&logo=Unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=Roblox&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <a href="https://teampsf.itch.io/project-sf/"><img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white&link=https://https://teampsf.itch.io/project-sf"/></a>
 
 
-<a href="https://drive.google.com/file/d/1X1HIQOA4m8XbOBQmRSFxGMP9HFuanrm2/view/"><img src="https://img.shields.io/badge/Unity-0E1128?style=flat-square&logo=Unity&logoColor=white&link=https://https://drive.google.com/file/d/1X1HIQOA4m8XbOBQmRSFxGMP9HFuanrm2/view"/></a>
+<a href="https://drive.google.com/file/d/1X1HIQOA4m8XbOBQmRSFxGMP9HFuanrm2/view"><img src="https://img.shields.io/badge/Unity-0E1128?style=flat-square&logo=Unity&logoColor=white&link=https://https://drive.google.com/file/d/1X1HIQOA4m8XbOBQmRSFxGMP9HFuanrm2/view"/></a>
 
 # 내 스탯 📊
 [![JS's github stats](https://github-readme-stats.vercel.app/api?username=hjs6082&show_icons=true&theme=monokai)](https://github.com/hjs6082/github-readme-stats) 
