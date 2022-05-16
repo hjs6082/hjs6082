@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ### 내 주소 🏠 
 <a href="https://www.instagram.com/jspratice/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jspratice"/></a>
-<a href=mailto:hjs77143@gmail.com><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hjs77143@gmail.com/></a>
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hjs77143@gmail.com)
 
 ### 만든 게임들 🎮
 
