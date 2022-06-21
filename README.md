@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/jspratice/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jspratice"/></a>
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hjs77143@gmail.com)
 
-### 만든 게임들 🎮
+### 출시한 게임들 🎮
 
 <a href="https://teampsf.itch.io/project-sf/"><img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white&link=https://https://teampsf.itch.io/project-sf"/></a>
 
