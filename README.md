@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 # 내 스탯 📊
 [![JS's github stats](https://github-readme-stats.vercel.app/api?username=hjs6082&show_icons=true&theme=monokai)](https://github.com/hjs6082/github-readme-stats) 
 
-<<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjs6082)](https://solved.ac/hjs6082/)-->
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjs6082)](https://solved.ac/hjs6082/)-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjs6082&layout=compact&theme=tokyonight)
 
