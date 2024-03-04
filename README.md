@@ -37,13 +37,11 @@ Here are some ideas to get you started:
 
 ### 출시한 게임들 🎮
 
-/*
-<a href="https://teampsf.itch.io/project-sf/"><img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white&link=https://https://teampsf.itch.io/project-sf"/></a>
+//<a href="https://teampsf.itch.io/project-sf/"><img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white&link=https://https://teampsf.itch.io/project-sf"/></a>
 
 <a href="https://drive.google.com/file/d/1X1HIQOA4m8XbOBQmRSFxGMP9HFuanrm2/view"><img src="https://img.shields.io/badge/Unity-0E1128?style=flat-square&logo=Unity&logoColor=white&link=https://https://drive.google.com/file/d/1X1HIQOA4m8XbOBQmRSFxGMP9HFuanrm2/view"/></a>
 
 <a href="https://github.com/juhyeong0823/gameJemWithJunsu"><img src="https://img.shields.io/badge/Unity-0E1128?style=flat-square&logo=Unity&logoColor=white&link=https://https://github.com/juhyeong0823/gameJemWithJunsu"/></a>
-*/
  
 
 # 내 스탯 📊
