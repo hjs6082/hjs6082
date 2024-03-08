@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
 
   
-### 경기게임마이스터고 현준서입니다.
+### 프로그래머 HJS입니다.
   
 ### 사용하는 언어들 💻
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
